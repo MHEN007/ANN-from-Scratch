@@ -15,3 +15,5 @@ The implementation uses Numpy packages for numerical processing. The implementat
 We provide with four activation functions all from scratch. Those being linear, relu, sigmoid (logistic), and softmax function. We also provide the derivative of each function for the backpropagation.
 
 We compare our results with Keras framework and achieved favourable results with our implementation. The model created uses Numpy Doc for docstring styling.
+
+Two documents explaining the entire implementation is provided at the `docs` folder
